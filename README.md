@@ -20,7 +20,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ~~~
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: V.A.Jithendra 
+Developed by: V.A.Jithendra
 Register Number: 212221230043
 ~~~
 ~~~
@@ -50,17 +50,41 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ~~~
 # Output:
 
-## Head:
+## Data Head:
 
 ![output](./img/1.png)
 
-## Accuracy:
+## Data Info:
 
 ![output](./img/2.png)
 
-## Predicted Values:
+## Data Isnull:
 
 ![output](./img/3.png)
+
+## Data Left:
+
+![output](./img/4.png)
+
+## Data Head:
+
+![output](./img/5.png)
+
+## X.Head:
+
+![output](./img/6.png)
+
+## Data Fit:
+
+![output](./img/7.png)
+
+## Accuracy:
+
+![output](./img/8.png)
+
+## Predicted Values:
+
+![output](./img/9.png)
 
 ## Result:
 Thus, the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
