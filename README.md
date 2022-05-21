@@ -21,7 +21,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ~~~
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: V.A.Jithendra
+<<<<<<< HEAD
 Register Number: 212221230043  
+=======
+Register Number: 212221230043
+>>>>>>> bd5de43efeae2924149722d10fa4a1fc280da6da
 ~~~
 ~~~
 import pandas as pd
